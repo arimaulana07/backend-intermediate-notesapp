@@ -1,0 +1,4 @@
+Total Cost > 1000 No Click = Pause
+Total Cost > 5000 CPC > 2000 No Conversi = Pause
+Total Cost > 25000 No Conversi = Pause 
+Total Cost > 48000 CPA > 48000 = Pause
